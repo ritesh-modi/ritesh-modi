@@ -1,16 +1,21 @@
-## Hi there 👋
+# Welcome
+My name is Ritesh Modi. I'm a Data Scientist AI Engineer and community builder, focusing on <ins> MLOps, LLMOps, GenAIOps, RAG, AI/ML and GenAI solutions 🤖 </ins>
+few things about me:
+* 📚 **Creator of Six unique AI/GENAI related open-source projects**:
+   * GenAIOps Azure AI SDK Template using AI Foundry  
+   * RAG Experiment Accelerator
+   * LLMOps Prompt Flow template
+   * MLOPS Model Factory Accelerator
+   * MLOPS DSTOOLKIT
+   * MLOPS Template with AzureML SDK v2 
+  
+  These repositories feature well-explained, high-quality python framework covering MLOps, LLMOps, GenAIOps, RA based solutions.
+  
+* 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/ritesh-modi/)** to stay updated on AI developments and discussions.
+* 🚀 Constantly working on implementing and explaining the newest AI techniques, maintaining a high standard for every tutorial.
 
-<!--
-**ritesh-modi/ritesh-modi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Support Open Source
+If you find these resources valuable, please consider:
+* ⭐ Starring the repositories you use
+* 🗣️ Sharing these resources with others who might benefit
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

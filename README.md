@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Ritesh Modi
 
-I'm a **Principal AI Engineer at Microsoft** and the **AI/ML EMEA Community Lead**, with over two decades of experience in delivering enterprise-scale solutions. My expertise spans **Artificial Intelligence**, **Generative AI**, **MLOps**, **LLMOps**, **GenAIOps**, **Blockchain**, and **Cloud technologies**.
+I'm a **Principal Engineer at Microsoft** and the **AI/ML EMEA Community Lead**, with over two decades of experience in delivering enterprise-scale solutions. My expertise spans **Artificial Intelligence**, **Generative AI**, **MLOps**, **LLMOps**, **GenAIOps**, **Blockchain**, and **Cloud technologies**.
 
 I'm passionate about driving innovation, sharing knowledge, and empowering the developer community through open-source contributions, writing, speaking, and mentoring.
 
@@ -102,4 +102,4 @@ I'm always eager to collaborate, share insights, and contribute to building bett
 
 ---
 
-
+I’m always eager to collaborate, share insights, and help the community push the boundaries of what’s possible with AI and cloud technologies.

@@ -67,6 +67,7 @@ I’ve presented at many top conferences:
 - PyCloud
 - Cloud Community Days
 - Microsoft AI Show (YouTube)
+- Numerous Microsoft internal conferences including MLADS, 24xAI, DSGUILD etc.
 
 I enjoy sharing real-world lessons and connecting with fellow professionals.
 

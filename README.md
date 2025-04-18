@@ -77,6 +77,7 @@ I enjoy sharing real-world lessons and connecting with fellow professionals.
 I support the ecosystem as:
 
 - Mentor at **DeepTech @ T-Hub**
+- Mentor to **csharp.com**
 - Books used as reference at **Sharad Institute of Technology**
 - Speaker on mentoring startups via **YourStory.com**
 

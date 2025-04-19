@@ -41,10 +41,15 @@ Also a contributor to the **Terraform AzureRM Provider** used by developers worl
 - **Bug Fixes for azurerm_virtual_desktop_application_group** – azurerm_virtual_desktop_application_group name allowed length is 3-31, should be 1-260
 - **Plus many more** 
 
-My Major contributions are in Microsoft Repos and most of the contributions are only visible after single-sign-on. Here is my contribution since last 1 year.
+My Major contributions are in Microsoft Repos and most of the contributions are only visible after single-sign-on. 
+
+Contributions in 2025
 
 <img width="738" alt="image" src="https://github.com/user-attachments/assets/ce67cb80-149a-4b2b-b37b-e37743dcf2df" />
 
+Contributions in 2024
+
+<img width="743" alt="image" src="https://github.com/user-attachments/assets/e8d354f1-526a-456f-b273-ecec1b2df5c9" />
 
 ---
 

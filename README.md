@@ -51,6 +51,11 @@ Contributions in 2024
 
 <img width="743" alt="image" src="https://github.com/user-attachments/assets/e8d354f1-526a-456f-b273-ecec1b2df5c9" />
 
+Contributions in 2023
+
+<img width="747" alt="image" src="https://github.com/user-attachments/assets/5972d7b3-f8bd-4504-8568-3ebab26503b0" />
+
+
 ---
 
 ## ✍️ Articles & Blogs

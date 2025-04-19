@@ -55,6 +55,13 @@ Contributions in 2023
 
 <img width="747" alt="image" src="https://github.com/user-attachments/assets/5972d7b3-f8bd-4504-8568-3ebab26503b0" />
 
+Contributions in 2022
+
+<img width="743" alt="image" src="https://github.com/user-attachments/assets/9d4bff1b-8019-4ece-8ea9-13756f81afc3" />
+
+Contributions in 2020
+
+<img width="751" alt="image" src="https://github.com/user-attachments/assets/980c1b5f-077f-47f3-a17b-e7141255c9c6" />
 
 ---
 

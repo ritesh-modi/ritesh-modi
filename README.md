@@ -32,7 +32,9 @@ I actively contribute to open source, leading and maintaining several projects:
 - **LLMOps PromptFlow Template** – Implement GenAIOps using Azure Prompt Flow
 - **MLOps Model Factory Accelerator** – End-to-end workflow for training, evaluation and deploying models
 - **MLOps DSToolKit** – Structured repo for MLOps on Azure
+- **MLOps Accelerator for Edge**  - Training and deploying multiple models on edge
 - **MLOps PromptFlow Prompt** – PromptFlow pipelines to accelerate LLMOps
+- **MLOps Model Factory** - Factory Accelerator for multiple ML Models
 
 Also a contributor to the **Terraform AzureRM Provider** used by developers worldwide.
 

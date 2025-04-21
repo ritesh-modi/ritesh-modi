@@ -71,6 +71,7 @@ Contributions in 2020
 I write technical articles and tutorials regularly:
 
 - [HackerNoon](https://hackernoon.com/about/riteshmodi)
+- [iotforall](https://www.iotforall.com/community/writers/ritesh-modi)
 - [Medium](https://medium.com/@ritesh.modi)
 - [Medium](https://medium.com/@scorchsp1)
 - [The New Stack](https://thenewstack.io/author/riteshmodi/)

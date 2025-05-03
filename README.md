@@ -76,6 +76,7 @@ I write technical articles and tutorials regularly:
 - [Medium](https://medium.com/@scorchsp1)
 - [The New Stack](https://thenewstack.io/author/riteshmodi/)
 - [MSDNMagazine](https://learn.microsoft.com/en-us/archive/msdn-magazine/2015/april/windows-powershell-authoring-desired-state-configuration-custom-resources)
+- [Wordpress] (https://riteshmodi.com/blogs/)
 
 I share deep dives, how-tos, and architectural patterns for developers and engineers.
 

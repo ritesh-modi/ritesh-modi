@@ -6,6 +6,10 @@ I'm a **Principal Engineer at Microsoft** and the **AI/ML EMEA Community Lead**,
 
 I'm passionate about driving innovation, sharing knowledge, and empowering the developer community through open-source contributions, writing, speaking, and mentoring.
 
+The latest 2 volume book I wrote is on Building your own LLM after understanding the High School Math behind it. [the first book on LLM](https://www.linkedin.com/in/ritesh-modi).
+
+Another book I wrote for GenAI and general Engineer's is Python async from ground up available at [Leanpub](https://leanpub.com/asyncio).
+
 ---
 
 ## 📘 Publications
